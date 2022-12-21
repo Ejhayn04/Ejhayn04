@@ -21,7 +21,7 @@ I am a student at the University of Louisville currently majoring in Information
   #
   <h2>👨‍💻 Coding Projects:</h2>
 - <b>C# Insurance Calculator (.NET GUI) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Insurance Calculator][(https://github.com/Ejhayn04/C-Insurance-Calculator)]
 - <b>C# Product Locator / Stock Status Console Application (.NET Framework)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>HTML </b>
