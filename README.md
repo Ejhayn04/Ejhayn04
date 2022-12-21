@@ -22,10 +22,13 @@ I am a student at the University of Louisville currently majoring in Information
   <h2>👨‍💻 Coding Projects:</h2>
 - <b>C# Insurance Calculator (.NET GUI) </b>
   - [Insurance Calculator][(https://github.com/Ejhayn04/C-InsuranceCalculator/blob/main/README.md)]
+  <br/>
 - <b>C# Product Locator / Stock Status Console Application (.NET Framework)</b>
   - [C# Product Locator / Stock Status Console Application][(https://github.com/Ejhayn04/Product-In-Stock-Status-Application)]</b></i>
+    <br/>
 - <b>HTML ShakeSpeare Page Creation  </b>
   - [HTML ShakeSpeare Page Creation][(https://github.com/Ejhayn04/ShakeSpeare-Page-Creation-HTML-)]
+  <br/>
 - <b>HTML Credit Card Info Webform</b>
   - [Credit Card Info Webform]([(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform-Code)]
 <h2> Certifications 🎓 </h2>
