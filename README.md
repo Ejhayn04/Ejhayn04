@@ -23,7 +23,7 @@ I am a student at the University of Louisville currently majoring in Information
 - <b>C# Insurance Calculator (.NET GUI) </b>
   - [Insurance Calculator][(https://github.com/Ejhayn04/C-InsuranceCalculator/blob/main/README.md)]
 - <b>C# Product Locator / Stock Status Console Application (.NET Framework)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [C# Product Locator / Stock Status Console Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>HTML </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
