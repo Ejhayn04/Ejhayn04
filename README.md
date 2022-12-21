@@ -30,7 +30,7 @@ I am a student at the University of Louisville currently majoring in Information
   - [HTML ShakeSpeare Page Creation][(https://github.com/Ejhayn04/ShakeSpeare-Page-Creation-HTML-)]
   <br/>
 - <b>HTML Credit Card Info Webform</b>
-  - [Credit Card Info Webform]([(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform-Code)]
+  - [Credit Card Info Webform]([(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform/edit/main/README.md)]
 <h2> Certifications 🎓 </h2>
 -[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)
        
