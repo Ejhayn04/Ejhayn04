@@ -24,11 +24,8 @@ I am a student at the University of Louisville currently majoring in Information
   - [Insurance Calculator][(https://github.com/Ejhayn04/C-InsuranceCalculator/blob/main/README.md)]
 - <b>C# Product Locator / Stock Status Console Application (.NET Framework)</b>
   - [C# Product Locator / Stock Status Console Application][(https://github.com/Ejhayn04/Product-In-Stock-Status-Application)]</b></i>
-- <b>HTML </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>HTML ShakeSpeare Page Creation  </b>
+  - [HTML ShakeSpeare Page Creation][(https://github.com/Ejhayn04/ShakeSpeare-Page-Creation-HTML-)]
 - <b>HTML (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
