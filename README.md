@@ -32,7 +32,7 @@ I am a student at the University of Louisville currently majoring in Information
 - <b>HTML Credit Card Info Webform</b>
   - [Credit Card Info Webform]([(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform)]
 <br/>
-<b>C# Digital CLock (.NET GUI) </b>
+- <b>C# Digital CLock (.NET GUI) </b>
   - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
   <br/>
 <h2> Certifications 🎓 </h2>
