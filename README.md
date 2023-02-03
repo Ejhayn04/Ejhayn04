@@ -33,6 +33,10 @@ I am a student at the University of Louisville currently majoring in Information
   - [Credit Card Info Webform]([(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform)]
 <h2> Certifications 🎓 </h2>
 -[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)
+<br/>
+<b>C# Digital CLock (.NET GUI) </b>
+  - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
+  <br/>
        
   <!--
 **Ejhayn04/Ejhayn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
