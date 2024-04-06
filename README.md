@@ -3,7 +3,7 @@
 
 ##
 
-I am a student at the University of Louisville currently majoring in Information Security with a minor in Entrepeneuriship. This portfolio showcases all of my current projects that I have written. I hope you enjoy my work!
+I am a student at the University of Louisville currently majoring in Information Security. This portfolio showcases all of my current projects that I have written. I hope you enjoy my work!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emmanuel-haynes-953482215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkuc8APqgQhmSytvfqYt59w%3D%3D">
