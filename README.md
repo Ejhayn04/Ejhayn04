@@ -45,19 +45,20 @@ I am a student at the University of Louisville currently majoring in Information
 - <b> Password Cracking using Linux (Linux) </b>
   - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
   <br/>
-<b> Wireless Security (Linux) </b>
+- <b> Wireless Security (Linux) </b>
   - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
   <br/>
-<b> Creating Firewall in Linux (Linux) </b>
+- <b> Creating Firewall in Linux (Linux) </b>
   - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
   <br/>
-<b> AD and GPOS (SQL) </b>
+- <b> AD and GPOS (SQL) </b>
   - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
   <br/>
 
 
 <h2> Certifications 🎓 </h2>
--[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)
+- <b>-[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)</b>
+<br/>
 -[HacktheBox PenTester Academy]
 <h2> Coding / Security Skills </h2>
 - Python Certified, Excel certified, Java Programming, Linux, HTML Programming, Bash, Metasploit, SQL Programming, C# Programming, Tenable, Rapid7, Azure Cloud, Risk Management, Risk Analysis, Microsoft Office, SharePoint, DevOps, 
