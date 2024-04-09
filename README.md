@@ -59,7 +59,7 @@ I am a student at the University of Louisville currently majoring in Information
 <h2> Certifications 🎓 </h2>
 - <b>[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)</b>
 <br/>
--[HacktheBox PenTester Academy]
+-<b>[HacktheBox PenTester Academy]</b>
 <h2> Coding / Security Skills </h2>
 - Python Certified, Excel certified, Java Programming, Linux, HTML Programming, Bash, Metasploit, SQL Programming, C# Programming, Tenable, Rapid7, Azure Cloud, Risk Management, Risk Analysis, Microsoft Office, SharePoint, DevOps, 
 
