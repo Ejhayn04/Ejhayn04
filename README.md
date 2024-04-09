@@ -57,7 +57,7 @@ I am a student at the University of Louisville currently majoring in Information
 
 
 <h2> Certifications 🎓 </h2>
-- <b>-[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)</b>
+- <b>[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)</b>
 <br/>
 -[HacktheBox PenTester Academy]
 <h2> Coding / Security Skills </h2>
