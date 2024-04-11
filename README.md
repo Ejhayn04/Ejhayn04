@@ -40,10 +40,10 @@ I am a student at the University of Louisville currently majoring in Information
   <br/>
   <h2>👨‍💻 Cybersecurity Projects:</h2>
   - <b>SQL Injection with Burp Suite (SQL) </b>
-  - [Burp Suite][https://github.com/Ejhayn04/SQL-Injection-With-Burp-Suit/tree/main]
+  - [SQL Injection][https://github.com/Ejhayn04/SQL-Injection-With-Burp-Suit/tree/main]
   <br/>
-- <b> Password Cracking using Linux (Linux) </b>
-  - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
+- <b> Snort (Linux) </b>
+  - [Linux][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
   <br/>
 - <b> Wireless Security (Linux) </b>
   - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
