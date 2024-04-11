@@ -49,7 +49,7 @@ I am a student at the University of Louisville currently majoring in Information
   - [Kali Linux][(https://github.com/Ejhayn04/Wireless-Security/tree/main)]
   <br/>
 - <b> Creating Firewall in Linux (Linux) </b>
-  - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
+  - [Linux][(https://github.com/Ejhayn04/Linux-Firewall/tree/main)]
   <br/>
 - <b> AD and GPOS (SQL) </b>
   - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
