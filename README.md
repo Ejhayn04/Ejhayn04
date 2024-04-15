@@ -52,7 +52,7 @@ I am a student at the University of Louisville currently majoring in Information
   - [Linux][(https://github.com/Ejhayn04/Linux-Firewall/tree/main)]
   <br/>
 - <b> AD and GPOS (SQL) </b>
-  - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
+  - [SQL][(https://github.com/Ejhayn04/AD-and-GPOS/tree/main)]
   <br/>
 
 
